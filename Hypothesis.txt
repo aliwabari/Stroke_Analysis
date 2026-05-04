@@ -1,0 +1,7 @@
+1- Individuals who have been married show a higher probability of stroke compared to those who have never been married.
+
+2- Rural have less probability to get stroke 
+
+3- Individuals with heart disease have a higher risk of stroke  
+
+4- more bmi has more probability to get stroke
